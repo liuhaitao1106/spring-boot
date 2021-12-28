@@ -4,8 +4,19 @@
     "owner": "123"
   },
   "detail": {
-    "contributors": [],
-    "diagrams": [],
+    "contributors": [
+      {
+        "name": "1331"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "121331",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "diagramType": "STRIDE",
+        "id": 0
+      }
+    ],
     "reviewer": "123"
   }
 }
